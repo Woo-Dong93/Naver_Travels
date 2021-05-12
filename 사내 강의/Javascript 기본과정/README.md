@@ -6,12 +6,25 @@
 
 ## ⭐ 강의 리스트
 
-|               이름               | 시간  | 확인 | 정리 |
-| :------------------------------: | :---: | :--: | :--: |
-|         소개 및 기본타입         | 17:53 |      |      |
-|         Javascript 객체          | 24:27 |      |      |
-|        Javascript 함수(1)        | 25:51 |      |      |
-|        Javascript 함수(2)        | 24:46 |      |      |
-| Javascript 함수(3) 및 프레임워크 | 23:45 |      |      |
+|               이름               | 시간  |     확인      |     정리      |
+| :------------------------------: | :---: | :-----------: | :-----------: |
+|         소개 및 기본타입         | 17:53 | :green_heart: | :green_heart: |
+|         Javascript 객체          | 24:27 | :green_heart: | :green_heart: |
+|        Javascript 함수(1)        | 25:51 | :green_heart: | :green_heart: |
+|        Javascript 함수(2)        | 24:46 | :green_heart: | :green_heart: |
+| Javascript 함수(3) 및 프레임워크 | 23:45 | :green_heart: | :green_heart: |
 
+
+
+## :memo: 강의 정리
+
+[1. 소개 및 기본타입](./list/1장_소개_및_기본_타입)
+
+[2. Javascript 객체](./list/2장_Javascript_ 객체)
+
+[3. Javascript 함수(1)](./list/3장_Javascript_함수(1))
+
+[4. Javascript 함수(2)](./list/4장_Javascript_함수(2))
+
+[5. Javascript 함수(3)](./list/5장 _Javascript_함수(3))
 
