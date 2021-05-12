@@ -3,14 +3,12 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import './exercise'
 import rootReducer from './modules';
 import { Provider } from 'react-redux';
 import { createStore } from 'redux';
-import { composeWithDevTools } from 'redux-devtools-extension'
 
 // 스토어를 생성합니다.
-const store = createStore(rootReducer, composeWithDevTools());
+const store = createStore(rootReducer);
 
 ReactDOM.render(
   <React.StrictMode>
