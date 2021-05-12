@@ -26,5 +26,5 @@
 
 [4. Javascript 함수(2)](./list/4장_Javascript_함수(2).md)
 
-[4. Javascript 함수(3)](./list/4장_Javascript_함수(3).md)
+[5. Javascript 함수(3)](./list/5장_Javascript_함수(3).md)
 
