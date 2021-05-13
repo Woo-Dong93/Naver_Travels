@@ -23,7 +23,6 @@ const initialState:TodosState = [];
     
 
 // 리듀서 만들기
-
 const counter = createSlice({
     name: 'todo', //액션 타입의 prefix로 사용
     initialState: initialState,
