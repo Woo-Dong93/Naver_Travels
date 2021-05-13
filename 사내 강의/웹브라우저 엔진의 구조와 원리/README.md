@@ -10,7 +10,7 @@
 | :----------------------------: | :---: | :-----------: | :-----------: |
 |             Intro              | 03:46 | :green_heart: | :green_heart: |
 |  Summary of how browsers work  | 30:41 | :green_heart: | :green_heart: |
-|  How the brower makes a frame  | 14:26 |               |               |
+|  How the brower makes a frame  | 14:26 | :green_heart: | :green_heart: |
 | Vsync based browser processing | 12:04 |               |               |
 | Rendering pipline stage costs  | 07:32 |               |               |
 
