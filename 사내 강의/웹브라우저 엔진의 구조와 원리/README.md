@@ -23,7 +23,7 @@
 
 [2. How the brower makes a frame](./list/2_How_the_browser_makes_a_frame.md)
 
-[3. Vsync based browser processing](./list/3_Vsync_based_ browser_processing.md)
+[3. Vsync based browser processing](./list/3_Vsync_based_browser_processing.md)
 
 [4. Rendering pipline stage costs](./list/4_Rendering_pipeline_stage_costs.md)
 
